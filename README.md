@@ -86,10 +86,11 @@ pnpm lint
 
 ## 📜 Publication
 For more details on our research and findings, refer to our publication:
-📄 Title:Implementation of an Outdoor Camera Sabotage Detection System Model
-📚 Journal/Conference: IEEE IC_ASET 2024
-📅 Year: 2024
-🔗 DOI / Link: [Your Publication Title](https://your-publication-link.com)  
+
+- 📄 Title:Implementation of an Outdoor Camera Sabotage Detection System Model
+- 📚 Journal/Conference: IEEE IC_ASET 2024
+- 📅 Year: 2024
+- 🔗 DOI / Link: [click here!](https://ieeexplore.ieee.org/document/10596200/)  
 
 ## 📚 License
 This project is licensed under the **MIT License**.  

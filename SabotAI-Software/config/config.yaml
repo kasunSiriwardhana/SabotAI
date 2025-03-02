@@ -1,0 +1,35 @@
+camera:
+  resolution: [1280, 720]
+  target_frame_rate: 30
+  camera_sources:
+    - id: 'cam_1_identifier'  # Camera 1 Identifier
+      source: 0  # Local webcam index (use 0 for default webcam) (for testing purposes only)
+    - id: 'cam_2_identifier' 
+      source: 'C:\\Users\\sabotai\\Desktop\\vi\\test.mp4'  # Local video file path (for testing purposes only)
+    - id: 'cam_3_identifier'
+      source: 'rtsp://admin:sabot123@10.1.1.68:554/cam/realmonitor?channel=1&subtype=1'  # RTSP Camera 3
+    - id: 'cam_4_identifier'
+      source: 'rtsp://admin:sabot123@10.1.1.69:554/cam/realmonitor?channel=1&subtype=1'  # RTSP Camera 4
+      
+      # Add more camera sources as needed
+
+model:
+  pretrained: true
+  path: "./model/alexnetphase1/alexnet.pth" # Path to the model file
+  num_classes: 3
+
+firebase:
+  apiKey: "apiKey"
+  authDomain: "authDomain"
+  projectId: "projectId"
+  databaseURL: "databaseURL"
+  storageBucket: "storageBucket"
+  messagingSenderId: "messagingSenderId"
+  appId: "appId"
+  service_account: "./config/your_service_account.json" # Path to Firebase service account json file
+
+twilio:
+  account_sid: "your_account_sid"
+  auth_token: "your_auth_token"
+  to_phone_number: "recipient_phone_number"
+  from_phone_number: "twilio_phone_number"

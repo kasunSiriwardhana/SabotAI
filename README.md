@@ -35,31 +35,5 @@ The system provides **real-time monitoring** via a **user-friendly web portal** 
 git clone https://github.com/YOUR_USERNAME/SabotAI.git
 cd SabotAI
 
-2️⃣ Install Dependencies
-
-pip install -r requirements.txt
-
-3️⃣ Run the Project
-
-python run.py
-
-📷 Example Screenshots
-
-
-
-📚 License
-
-This project is licensed under the MIT License.See the LICENSE file for more details.
-
-🤝 Contributing
-
-We welcome contributions!
-
-Fork the repo
-
-Create a new branch (feature-xyz)
-
-Commit changes and push
-
-Open a Pull Request 🚀
+## ⚙️ Installation & Setup
 

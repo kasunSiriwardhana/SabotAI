@@ -32,7 +32,7 @@ The system provides **real-time monitoring** via a **user-friendly web portal** 
 ---
 
 ## ⚙️ Installation & Setup
-### ** Clone the Repository**
+### Clone the Repository
 ```sh
 git clone <your-repo-url>
 cd SabotAI
@@ -49,7 +49,7 @@ pip install -r requirements.txt
 ```sh
 python run.py
 ```
-**Note:**
+Note:
 - The trained model is not included.  
 - You need to set up your Firebase configuration and service account.  
 - You need to set up your Twilio account.  

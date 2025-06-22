@@ -82,7 +82,7 @@ pnpm lint
 ---
 
 ## 📹 Demo Video
-[![Watch the Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)  
+[![Watch the Video](https://img.youtube.com/vi/IXs6eHfta20/maxresdefault.jpg)](https://www.youtube.com/watch?v=IXs6eHfta20)  
 
 ---
 
